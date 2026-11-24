@@ -1,0 +1,32 @@
+Nordlys Member Union - Frequently Asked Questions
+(This is a fictional sample document for demonstrating the RAG bot.)
+
+Membership fee
+A standard membership costs 149 DKK per month. The fee is charged on the 1st of each month. Students pay a reduced fee of 49 DKK per month and must upload proof of enrolment in Min Side once per year.
+
+Cancelling your membership
+You can cancel in Min Side under "My membership". The cancellation takes effect at the end of the following month, so you pay for one more month after you cancel.
+
+Parental leave
+While you are on parental leave your fee is reduced to 50 percent. Send the leave confirmation from your employer or municipality through Min Side, and the reduction applies from the month the leave starts.
+
+Legal help
+Members get a free initial legal consultation of 30 minutes for work-related issues such as dismissal, contracts and holiday pay. Book through Min Side; you will be offered a time within 5 working days. Further legal help is assessed case by case.
+
+Changing your details
+You can update your address, phone number and email in Min Side. Changes take effect the next day. Name changes must be sent as a message with a copy of official documentation.
+
+Phone support
+Our phone line is open Monday to Thursday from 9:00 to 15:00 and Friday from 9:00 to 12:00. The line is closed on public holidays. Outside opening hours you can send a message in Min Side and we reply within 2 working days.
+
+Forgotten password
+Use "Forgot password" on the login page. We send a reset link to your registered email, and the link is valid for 30 minutes. If the email does not arrive, check your spam folder before contacting support.
+
+Complaints
+If you are unhappy with our service you can submit a complaint in Min Side. We confirm receipt within 2 working days and answer the complaint within 10 working days.
+
+Data protection
+Your member data is stored within the EU. If you ask us to, we delete your personal data 12 months after your membership has ended, unless we are legally required to keep it longer.
+
+Name 
+My name is Udita.

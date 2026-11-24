@@ -1,0 +1,7 @@
+__pycache__/
+.env
+db/
+db_eval/
+logs/
+eval/last_results.json
+.venv/

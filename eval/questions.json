@@ -1,0 +1,14 @@
+[
+  {"question": "How much does a standard membership cost per month?", "keywords": ["149"]},
+  {"question": "What do students pay?", "keywords": ["49"]},
+  {"question": "When does my cancellation take effect?", "keywords": ["end of the following month"]},
+  {"question": "How long is the free legal consultation?", "keywords": ["30 minutes"]},
+  {"question": "How fast can I get a legal consultation time?", "keywords": ["5 working days"]},
+  {"question": "What happens to my fee during parental leave?", "keywords": ["50 percent"]},
+  {"question": "When is the phone line open on Fridays?", "keywords": ["9:00", "12:00"]},
+  {"question": "How long is the password reset link valid?", "keywords": ["30 minutes"]},
+  {"question": "How long do you take to answer a complaint?", "keywords": ["10 working days"]},
+  {"question": "When do you delete my data after I leave?", "keywords": ["12 months"]},
+  {"question": "Does the union offer car insurance?", "expect_refusal": true},
+  {"question": "What is the price of a gym membership?", "expect_refusal": true}
+]
