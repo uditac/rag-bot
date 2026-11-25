@@ -5,3 +5,6 @@ db_eval/
 logs/
 eval/last_results.json
 .venv/
+db_agent/
+db_agent_eval/
+eval/last_agent_results.json
